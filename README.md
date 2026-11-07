@@ -11,3 +11,5 @@ This approach aims to maintain an organized queuing process for individuals visi
 
 --- 
 ## UML Class Diagram
+
+<img src="UML__DIagram.png">
